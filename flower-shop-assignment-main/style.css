@@ -3,7 +3,7 @@ header{
     width: 100%;
     background-color: rgba(229, 84, 115, 0.10);
     margin-top: 0px;
-    border: 1px solid sandybrown;
+    
  
 }
 .header-container{
@@ -104,7 +104,7 @@ height: 300px;
 }
 .ff-img-container{
     display: flex;
-    margin-left: 200px;
+    margin-left: 180px;
    
 }
 .logo-container{
@@ -129,7 +129,7 @@ margin-bottom: 100px;
   margin-left: 50px;
 }
 .l-h3{
-    margin-right: 200px;
+    margin-right: 150px;
 }
 .container-btn{
     border-radius: 8px;
@@ -199,7 +199,9 @@ line-height: normal;
 }
 
 .section-c{
-    height: 500px;
+    height: 300px;
+    margin-right: 200px;
+    margin-left: 200px;
 }
 .s-c-btn{
     border-radius: 8px;
@@ -210,6 +212,8 @@ background: #E55473;
     text-align: center;
     margin-top: 200px;
     margin-bottom: 200px ;
+    background-image: url("./Rectangle\ 9.png");
+    background-repeat: no-repeat;
 }
 .s-c-d-h{
     color: #272727;
