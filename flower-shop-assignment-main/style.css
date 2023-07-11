@@ -130,3 +130,11 @@ margin-bottom: 100px;
 .l-h3{
     margin-right: 200px;
 }
+.container-btn{
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+}
