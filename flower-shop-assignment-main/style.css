@@ -176,7 +176,7 @@ background: rgba(229, 84, 115, 0.05);
 margin-bottom: 100px;
 }
 .left-container{
-    margin-left: 200px;
+   margin-left: 200px;
 }
 .sec-b-img-container{
     display: flex;
@@ -184,6 +184,10 @@ margin-bottom: 100px;
     gap: 10px
     ;
 
+}
+.b-img1{
+    height: 350px;
+    width: 300px;
 }
 .sec-b-p{
     color: rgba(39, 39, 39, 0.60);
@@ -279,3 +283,9 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+.section-b{
+    margin-left: 65px;
+}
+.f-c{padding: 200px;}
+
+  
