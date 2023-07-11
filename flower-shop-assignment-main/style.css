@@ -209,6 +209,7 @@ background: #E55473;
     display: block;
     text-align: center;
     margin-top: 200px;
+    margin-bottom: 200px ;
 }
 .s-c-d-h{
     color: #272727;
@@ -227,4 +228,40 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px;
+}
+footer{
+    background-color: black;
+    height: 600px;
+    
+}
+.flr{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.f-h{
+    color: white;
+    text-align: center;
+}
+.f-p{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.f-p-2{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
