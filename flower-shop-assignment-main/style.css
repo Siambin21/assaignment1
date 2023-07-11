@@ -201,3 +201,30 @@ line-height: normal;
 .section-c{
     height: 500px;
 }
+.s-c-btn{
+    border-radius: 8px;
+background: #E55473;
+}
+.section-c{
+    display: block;
+    text-align: center;
+    margin-top: 200px;
+}
+.s-c-d-h{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.s-c-d-p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
