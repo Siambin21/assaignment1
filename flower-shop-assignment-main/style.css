@@ -3,6 +3,7 @@ header{
     width: 100%;
     background-color: rgba(229, 84, 115, 0.10);
     margin-top: 0px;
+    border: 1px solid sandybrown;
  
 }
 .header-container{
@@ -170,4 +171,33 @@ margin-bottom: 100px;
 }
 .left-container{
     margin-left: 200px;
+}
+.sec-b-img-container{
+    display: flex;
+    margin-left: 50px;
+    gap: 10px
+    ;
+
+}
+.sec-b-p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.sec-h2{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.section-c{
+    height: 500px;
 }
