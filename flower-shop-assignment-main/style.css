@@ -287,5 +287,21 @@ line-height: normal;
     margin-left: 65px;
 }
 .f-c{padding: 200px;}
-
-  
+.ft{
+    display: flex;
+    width: 50%;
+    height: 50%;
+    margin-left: -180px;
+}
+.fbh{
+    color: #E55473;
+    
+    width: 708px;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+margin-left: 400px;
+}
