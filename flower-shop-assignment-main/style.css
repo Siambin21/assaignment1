@@ -109,10 +109,10 @@ height: 300px;
 }
 .logo-container{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     height: 200px;
     width: 75%;
-    margin-left: 210px;
+    margin-left: 180px;
     border-radius: 8px;
 background-color: rgba(39, 39, 39, 0.05);
 margin-top: 200px;
@@ -123,13 +123,19 @@ margin-bottom: 100px;
     width: 50px;
     height: 50px;
     margin-left: 80px;
-    margin-right: 50px;
+    margin-right: 80px;
 }
 .l-h1{
-  margin-left: 50px;
+  margin-left: 80px;
 }
 .l-h3{
-    margin-right: 150px;
+  margin-right: 80px;
+ 
+}
+.l3{
+   display: block;
+   align-items: center;
+   justify-content: center;
 }
 .container-btn{
     border-radius: 8px;
@@ -199,6 +205,7 @@ line-height: normal;
 }
 
 .section-c{
+   
     height: 300px;
     margin-right: 200px;
     margin-left: 200px;
@@ -232,6 +239,9 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px;
+}
+.m-s-c{
+    margin-top: 200px;
 }
 footer{
     background-color: black;
