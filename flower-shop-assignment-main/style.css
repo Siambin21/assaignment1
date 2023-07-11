@@ -227,7 +227,7 @@ background: #E55473;
     background-repeat: no-repeat;
 }
 .s-c-d-h{
-    color: #272727;
+    color: lightcoral;
 text-align: center;
 font-family: Lato;
 font-size: 40px;
@@ -291,8 +291,8 @@ line-height: normal;
     display: flex;
     width: 50%;
     height: 50%;
-    margin-left: -180px;
-}
+    margin-left: -180px;}
+    
 .fbh{
     color: #E55473;
     
@@ -304,4 +304,7 @@ font-weight: 800;
 line-height: normal;
 text-align: center;
 margin-left: 400px;
+}
+.white{
+   color:  rgba(39, 39, 39, 0.05);
 }
